@@ -13,68 +13,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecretariaGestionHumana/cree un enlace.md",
+                "file": "00_Guias/Estandares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cree un enlace"
+              "title": "Estandares"
             }
           },
           {
-            "id": "c3df59cbf266a9f3",
+            "id": "85a9ad56ebe847ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecretariaGestionHumana/Bienvenido.md",
+                "file": "00_Guias/Estandares.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bienvenido"
+              "title": "Estandares"
             }
           },
           {
-            "id": "79632d7ce9466667",
+            "id": "8a74457de8596d17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SecretariaGestionHumana/cree un enlace.md",
+                "file": "Componentes/FormularioDireccion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "cree un enlace"
+              "title": "FormularioDireccion"
             }
           },
           {
-            "id": "9bc9bcf2c60cfb4b",
+            "id": "d9f0641abb33ffca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Components/Componentes.md",
+                "file": "Componentes/Boton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Componentes"
+              "title": "Boton"
             }
           },
           {
-            "id": "e1abae717dd8eef9",
+            "id": "675d4eda1188a10c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Endpoint.md",
+                "file": "Componentes/FormularioDireccion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Endpoint"
+              "title": "FormularioDireccion"
+            }
+          },
+          {
+            "id": "32bf68eb16a77b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Modelos.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Modelos"
             }
           }
         ],
@@ -151,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Endpoint.md",
+                "file": "Componentes/FormularioDireccion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Endpoint"
+              "title": "Enlaces entrantes de FormularioDireccion"
             }
           },
           {
@@ -170,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Endpoint.md",
+                "file": "Componentes/FormularioDireccion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Endpoint"
+              "title": "Enlaces salientes de FormularioDireccion"
             }
           },
           {
@@ -199,21 +213,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Endpoint.md",
+                "file": "Componentes/FormularioDireccion.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Endpoint"
+              "title": "Esquema de FormularioDireccion"
+            }
+          },
+          {
+            "id": "5c07f2ba313eaeaa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -227,9 +251,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1abae717dd8eef9",
+  "active": "ae4b4fd8f7b45f88",
   "lastOpenFiles": [
-    "Auth.md",
+    "Database/Modelos.md",
+    "Componentes/FormularioDireccion.md",
+    "Modulos/Auth.md",
+    "API",
+    "Database",
+    "Componentes/Boton.md",
+    "Modulos",
+    "00_Guias/Estandares.md",
+    "Componentes",
+    "00_Guias/Setup.md",
+    "00_Guias",
     "Endpoint.md",
     "Components/Componentes.md",
     "SecretariaGestionHumana/cree un enlace.md",
