@@ -69,30 +69,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Componentes/FormularioDireccion.md",
+                "file": "Componentes/Boton.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FormularioDireccion"
+              "title": "Boton"
             }
           },
           {
             "id": "32bf68eb16a77b5b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/Modelos.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Modelos"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -237,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 260.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -251,14 +247,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae4b4fd8f7b45f88",
+  "active": "8a74457de8596d17",
   "lastOpenFiles": [
+    "Componentes/Boton.md",
+    "Modulos/Auth.md",
     "Database/Modelos.md",
     "Componentes/FormularioDireccion.md",
-    "Modulos/Auth.md",
     "API",
     "Database",
-    "Componentes/Boton.md",
     "Modulos",
     "00_Guias/Estandares.md",
     "Componentes",
