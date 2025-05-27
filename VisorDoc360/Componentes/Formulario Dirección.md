@@ -194,5 +194,5 @@ CREATE TABLE direcciones (
 ---
 
 ## 🔗 Relacionados
-- [[Módulos/Checkout]]  // Donde se usa este componente
+- [[Checkout]]  // Donde se usa este componente
 - [[Database/Modelos#direcciones]]
