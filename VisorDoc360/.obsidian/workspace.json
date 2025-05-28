@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "9492ecf75691ffa8",
+        "id": "7d00eab5a62a4dcc",
         "type": "tabs",
         "children": [
           {
-            "id": "1b80a4c409a04a1b",
+            "id": "0653020b22b68f8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PasswordReset/ResetFlow.md",
+                "file": "Templates/TemplateComponentes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ResetFlow"
-            }
-          },
-          {
-            "id": "4097cb6ee75cd75c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modulos/Auth/Autenticación.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Autenticación"
+              "title": "TemplateComponentes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,23 +180,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4097cb6ee75cd75c",
+  "active": "0653020b22b68f8a",
   "lastOpenFiles": [
+    "Database/Modelos.md",
+    "Templates/TemplateComponentes.md",
+    "Templates/TemplateGuia.md",
+    "Templates/TemplateModulo.md",
+    "Módulo de Pedidos.md",
     "Modulos/Checkout.md",
     "PasswordReset/ResetFlow.md",
     "Modulos/Auth/Autenticación.md",
+    "Modulos/Auth/Services/LDAP.md",
+    "Modulos/Auth/Services/UME.md",
+    "UME.md",
     "PasswordReset",
     "Componentes/Formulario Dirección.md",
     "00_Guias/Estandares.md",
     "00_Guias/Setup.md",
-    "Templates/TemplateComponentes.md",
     "images/Pasted image 20250527160647.png",
-    "Templates/TemplateModulo.md",
     "images/Pasted image 20250527160634.png",
     "images",
     "Pasted image 20250527155721.png",
-    "Modulos/Auth/Services/UmeService.md",
-    "Templates/TemplateGuia.md",
     "API/prueba.md",
     "Sin título.md",
     "Templates",
@@ -227,7 +216,6 @@
     "Modulos/Modulo Inventario EPP/Funcionalidades.md",
     "Modulos/Modulo Inventario EPP/RELEASES.md",
     "Modulos/Modulo Inventario EPP",
-    "Database/Modelos.md",
     "Componentes/Boton.md",
     "Endpoint.md",
     "Components/Componentes.md",
