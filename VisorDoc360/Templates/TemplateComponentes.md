@@ -1,12 +1,12 @@
 # 📦 Componente: FormularioDireccion
 
 ## 🧩 Descripción
-Componente que permite registrar direcciones con campos de país, ciudad y barrio.
+Componente que permite registrar direcciones con campos de via, sufijo, etc relacionando el usuario con la tabla necesaria para el proyecto de geolocalización.
 
 ## 📁 Archivos relacionados
 - Blade: `resources/views/components/formulario-direccion.blade.php`
 - JS: `public/js/componentes/formulario-direccion.js`
-- DB: Tabla `direcciones`
+- DB: Tabla `project_address`
 
 ## ⚙️ Parámetros
 | Parámetro | Tipo | Descripción |
@@ -19,10 +19,13 @@ Componente que permite registrar direcciones con campos de país, ciudad y barri
 - Bootstrap
 
 ## 🔄 Uso en otros módulos
-- [[Módulo de Usuarios]]
+- [[Formulario Dirección]]
 - [[Módulo de Pedidos]]
 
 ## 📎 Ejemplo de uso
-```blade
-<x-formulario-direccion :direccion="$direccion" modo="editar" />
+```php
+@include('example.component.html')
 ```
+
+### Visualización
+![[Pasted image 20250527160647.png]]acá tenemos una muestra de la vista de dirección

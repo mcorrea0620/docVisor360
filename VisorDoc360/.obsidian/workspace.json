@@ -4,11 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "df7388ce8b0fbeaf",
+        "id": "9492ecf75691ffa8",
         "type": "tabs",
         "children": [
           {
-            "id": "c55cbaf720b73e97",
+            "id": "1b80a4c409a04a1b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PasswordReset/ResetFlow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ResetFlow"
+            }
+          },
+          {
+            "id": "4097cb6ee75cd75c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,75 +34,9 @@
               "icon": "lucide-file",
               "title": "Autenticación"
             }
-          },
-          {
-            "id": "06b023fef8f15094",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/TemplateGuia.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TemplateGuia"
-            }
-          },
-          {
-            "id": "f8e68d0ae1ac49d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/TemplateComponentes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TemplateComponentes"
-            }
-          },
-          {
-            "id": "a5ab325ab88fc7ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modulos/Auth/Services/UmeService.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UmeService"
-            }
-          },
-          {
-            "id": "652a99283720a6fd",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Vista gráfica"
-            }
-          },
-          {
-            "id": "32bf68eb16a77b5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modulos/Modulo Inventario EPP/RELEASES.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "RELEASES"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,18 +195,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8e68d0ae1ac49d1",
+  "active": "4097cb6ee75cd75c",
   "lastOpenFiles": [
+    "Modulos/Checkout.md",
+    "PasswordReset/ResetFlow.md",
+    "Modulos/Auth/Autenticación.md",
+    "PasswordReset",
+    "Componentes/Formulario Dirección.md",
+    "00_Guias/Estandares.md",
+    "00_Guias/Setup.md",
+    "Templates/TemplateComponentes.md",
+    "images/Pasted image 20250527160647.png",
+    "Templates/TemplateModulo.md",
+    "images/Pasted image 20250527160634.png",
+    "images",
+    "Pasted image 20250527155721.png",
+    "Modulos/Auth/Services/UmeService.md",
+    "Templates/TemplateGuia.md",
     "API/prueba.md",
     "Sin título.md",
-    "Templates/TemplateComponentes.md",
-    "Templates/TemplateModulo.md",
-    "Templates/TemplateGuia.md",
     "Templates",
-    "Modulos/Auth/Autenticación.md",
     "Modulos/Auth/Login/LoginController.md",
     "Modulos/Auth/Login/LoginFlow.md",
-    "Modulos/Auth/Services/UmeService.md",
     "Modulos/Auth/Services/Metodos.md",
     "Modulos/Auth/Services",
     "Modulos/Auth/PasswordReset",
@@ -266,17 +224,11 @@
     "Modulos/Auth/Register",
     "Modulos/Auth/Login",
     "Modulos/Auth",
-    "Componentes/Formulario Dirección.md",
     "Modulos/Modulo Inventario EPP/Funcionalidades.md",
     "Modulos/Modulo Inventario EPP/RELEASES.md",
     "Modulos/Modulo Inventario EPP",
     "Database/Modelos.md",
-    "Modulos/Checkout.md",
-    "Módulos",
-    "00_Guias/Estandares.md",
     "Componentes/Boton.md",
-    "API",
-    "00_Guias/Setup.md",
     "Endpoint.md",
     "Components/Componentes.md",
     "SecretariaGestionHumana/cree un enlace.md",
