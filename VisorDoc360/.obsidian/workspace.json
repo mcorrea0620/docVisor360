@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "7d00eab5a62a4dcc",
+        "id": "ede82c01cc0ab8cb",
         "type": "tabs",
         "children": [
           {
-            "id": "0653020b22b68f8a",
+            "id": "d8702b23a1c0766d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/TemplateComponentes.md",
+                "file": "Modulos/Modulo Autenticación/Login.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TemplateComponentes"
+              "title": "Login"
             }
           }
         ]
@@ -180,10 +180,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0653020b22b68f8a",
+  "active": "d8702b23a1c0766d",
   "lastOpenFiles": [
-    "Database/Modelos.md",
+    "Modulos/Modulo Autenticación/Register.md",
+    "Modulos/Modulo Autenticación/ResetPassword.md",
+    "Modulos/Modulo Autenticación/ForgotPassword.md",
+    "Modulos/Modulo Autenticación/Login.md",
     "Templates/TemplateComponentes.md",
+    "Modulos/Modulo Inventario EPP",
+    "Modulos/Modulo Autenticación",
+    "Database/Modelos.md",
     "Templates/TemplateGuia.md",
     "Templates/TemplateModulo.md",
     "Módulo de Pedidos.md",
@@ -212,14 +218,8 @@
     "Modulos/Auth/ForgotPassword",
     "Modulos/Auth/Register",
     "Modulos/Auth/Login",
-    "Modulos/Auth",
     "Modulos/Modulo Inventario EPP/Funcionalidades.md",
     "Modulos/Modulo Inventario EPP/RELEASES.md",
-    "Modulos/Modulo Inventario EPP",
-    "Componentes/Boton.md",
-    "Endpoint.md",
-    "Components/Componentes.md",
-    "SecretariaGestionHumana/cree un enlace.md",
-    "SecretariaGestionHumana/Bienvenido.md"
+    "Componentes/Boton.md"
   ]
 }
