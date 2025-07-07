@@ -194,7 +194,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 599.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -208,7 +208,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "396e9ed4a5df5556",
+  "active": "5c07f2ba313eaeaa",
   "lastOpenFiles": [
     "00-Guias de uso/Como usar las plantillas.md",
     "00-Guias de uso/Pluggins necesarios.md",
