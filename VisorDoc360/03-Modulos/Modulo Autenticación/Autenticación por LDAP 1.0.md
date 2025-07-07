@@ -81,7 +81,7 @@ public function hasAccessTo($role)
 
 ---
 
-## 🔄 Cambios importantes / Historial
+## Cambios importantes / Historial
 - 2025-06-20 (Mauricio Correa Celis ): Implementación de doble login (LDAP + UME)
   - ==Cambios en rutas== Importante validar sus rutas al momento de hacer merge
   - Middleware actualizado para verificar tipo_login `check.login:ldap` 
