@@ -9,15 +9,14 @@ Por favor leer [[Guia Apache directory studio]] para implementar directorio acti
 - Permitir acceso a usuarios externos (proveedores) con cedula y contraseña por medio del API de la UME
 - Gestionar sesiones de forma segura
 
-##  Librerias
+##  Librerías
 - LdapRecords: "directorytree/ldaprecord": "^3.8"
 
 ## Bases de datos
 ---
 ### Migraciones
 ```bash
-php artisan migrate --path=database/migrations/SecretariaGestionHumana
-
+php artisan migrate --path=database/migrations/ldap/2025_06_09_144213_add_column_email_ldap.php
 ```
 
 ### Tablas Involucradas

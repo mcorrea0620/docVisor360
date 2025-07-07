@@ -210,8 +210,10 @@
   },
   "active": "396e9ed4a5df5556",
   "lastOpenFiles": [
-    "02-Guias para desarrolladores/Guia Apache directory studio.md",
+    "00-Guias de uso/Como usar las plantillas.md",
+    "00-Guias de uso/Pluggins necesarios.md",
     "03-Modulos/Modulo Autenticación/Autenticación por LDAP 1.0.md",
+    "02-Guias para desarrolladores/Guia Apache directory studio.md",
     "Templates/TemplateModulo.md",
     "Templates/TemplateComponentes.md",
     "Templates/TemplateGuia.md",
@@ -224,7 +226,6 @@
     "Modulos/Modulo Autenticación/Login.md",
     "00-Guias de uso/Estandares.md",
     "00-Guias de uso/LeftMenu.md",
-    "00-Guias de uso/Pluggins necesarios.md",
     "00-Guias de uso/Setup.md",
     "00-Guias de uso/Introducción a Obsidian.md",
     "05-Componentes/Formulario Dirección.md",
@@ -246,7 +247,6 @@
     "images/Pasted image 20250527160634.png",
     "images",
     "Pasted image 20250527155721.png",
-    "API/prueba.md",
     "Templates",
     "Modulos/Auth/Services"
   ]
