@@ -23,7 +23,7 @@ php artisan migrate --path=database/migrations/ldap/2025_06_09_144213_add_column
 - Users: Se requiere que el usuario este en base de datos guardado anteriormente para poder generar la sesión, se registrara unicamente por base de datos todo usurio que se registre con su correo alcaldia (@medellin.gov.co)
 
 ## Impacto a gran escala
-- [[LeftMenu]]
+- [[Visor360 - LeftMenu]]
 - [[#Rutas]] y Middleware
 - [[#User]]
 

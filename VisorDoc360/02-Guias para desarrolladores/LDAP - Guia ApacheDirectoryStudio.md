@@ -9,7 +9,7 @@
 ---
 
 ## ✅ Prerrequisitos
-- Java 11.0.x
+- Java 11.0.x -> Especificamente la 11
 - Apache Directory Studio
 - Runtime Enviroment
 
@@ -44,8 +44,12 @@
 ```bash
 # Comando o instrucción
 ```
-### Paso 2
-- Ejecuta apache directoy studio y en el menu superior veras una opción que dice **LDAP** allí seleccionaremos new connection o nueva conexión
+### Paso 2 - Crea un server
+- En el menú inferior en **LdapServers** daremos clic derecho y 'new server'.
+- Daremos clic en la parte de apacheDS 2.0 y finalizamos.
+
+### Paso 3 - Crear la conexión
+- Ejecuta apache directoy studio y en el menu inferior veras una opción que dice **LDAP** o **Connections** allí seleccionaremos new connection o nueva conexión
 
 ```bash
 NAME: INGRESA-EL-NOMBRE-DE-TU-PREFERENCIA
@@ -55,9 +59,14 @@ PORT: 389 #recomendado
 En Bind DN o User pondremos lo siguiente
 
 ```bash
-cn=admin,dc=localhost,dc=local
+uid=admin,ou=system
 ```
 Esta sera la estructura del administrador y le definiremos la contraseña en **Bind password** 
+
+### Paso 4 - Crear nuevo grupo o unidad organizada (OU)
+
+
+--- 
 ## 🛠️ Configuración inicial
 - Archivos o rutas importantes
 - Variables de entorno

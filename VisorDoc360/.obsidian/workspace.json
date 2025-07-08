@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Guias de uso/Guia ApacheDirectoryStudio (LDAP).md",
+                "file": "03-Modulos/SID - SolicitudCapacitaciónUGD/Solicitud de Formación UGD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guia ApacheDirectoryStudio (LDAP)"
+              "title": "Solicitud de Formación UGD"
             }
           }
         ]
@@ -182,17 +182,23 @@
   },
   "active": "b72186d9ccbf365b",
   "lastOpenFiles": [
-    "images/Pasted image 20250707143317.png",
-    "00-Guias de uso/Pluggins necesarios.md",
-    "00-Guias de uso/Guia ApacheDirectoryStudio (LDAP).md",
-    "00-Guias de uso/Como usar las plantillas.md",
-    "00-Guias de uso/Estandares.md",
-    "00-Guias de uso/Introducción a Obsidian.md",
-    "00-Guias de uso/LeftMenu.md",
-    "Templates/TemplateGuia.md",
-    "03-Modulos/Modulo Autenticación/Autenticación por LDAP 1.0.md",
-    "02-Guias para desarrolladores/Guia Apache directory studio.md",
+    "images/Untitled Diagram_2025-07-08T18_55_43.144Z.png",
+    "02-Guias para desarrolladores/LDAP - Guia ApacheDirectoryStudio.md",
+    "03-Modulos/SID - SolicitudCapacitaciónUGD/Solicitud de Formación UGD.md",
+    "03-Modulos/SID - SolicitudCapacitaciónUGD/Solicitud de formación UGD.md",
+    "03-Modulos/SID - SolicitudCapacitaciónUGD",
+    "00-Guias de uso/Obsidian - Pluggins necesarios.md",
+    "00-Guias de uso/Obsidian - Plantillas.md",
+    "03-Modulos/Visor360 - Autenticación/Autenticación por LDAP 1.0.md",
+    "05-Componentes/Generación reportes.md",
     "Templates/TemplateModulo.md",
+    "02-Guias para desarrolladores/Guia Apache directory studio.md",
+    "00-Guias de uso/Estandares.md",
+    "00-Guias de uso/Setup.md",
+    "00-Guias de uso/Visor360 - LeftMenu.md",
+    "00-Guias de uso/Obsidian - Introducción.md",
+    "images/Pasted image 20250707143317.png",
+    "Templates/TemplateGuia.md",
     "Templates/TemplateComponentes.md",
     "04-APIs y Servicios",
     "02-Guias para desarrolladores",
@@ -201,25 +207,20 @@
     "Modulos/Modulo Autenticación/ResetPassword.md",
     "Modulos/Modulo Autenticación/Register.md",
     "Modulos/Modulo Autenticación/Login.md",
-    "00-Guias de uso/Setup.md",
     "05-Componentes/Formulario Dirección.md",
     "Autenticación",
     "RPHH.md",
-    "05-Componentes/Generación reportes.md",
-    "03-Modulos/Modulo Inventario EPP",
-    "03-Modulos/Modulo Autenticación",
+    "03-Modulos/SGH - InventarioEPP",
+    "03-Modulos/Visor360 - Autenticación",
     "Database/Modelos.md",
     "Módulo de Pedidos.md",
     "Modulos/Checkout.md",
     "PasswordReset/ResetFlow.md",
-    "Modulos/Auth/Autenticación.md",
-    "Modulos/Auth/Services/LDAP.md",
     "PasswordReset",
     "images/Pasted image 20250527160647.png",
     "images/Pasted image 20250527160634.png",
     "images",
     "Pasted image 20250527155721.png",
-    "Templates",
-    "Modulos/Auth/Services"
+    "Templates"
   ]
 }

@@ -1,5 +1,5 @@
-## Descripcion
-El leftmenu es un componente donde podremos visualizar y seleccionar los modulos disponibles según el usuario por los roles o tipo de acceso que tenga.
+## Descripción
+El leftmenu es un componente donde podremos visualizar y seleccionar los módulos disponibles según el usuario por los roles o tipo de acceso que tenga.
 ## Uso
 
 ### Roles y permisos funcionarios y ciudadanos
