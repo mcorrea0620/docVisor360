@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Guias de uso/Obsidian - Plugins del proyecto.md",
+                "file": "03-Modulos/SID - SolicitudCapacitaciónUGD/Solicitud de Formación UGD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidian - Plugins del proyecto"
+              "title": "Solicitud de Formación UGD"
             }
           }
         ],
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Guias de uso/Obsidian - Plugins del proyecto.md",
+                "file": "03-Modulos/SID - SolicitudCapacitaciónUGD/Solicitud de Formación UGD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de Obsidian - Plugins del proyecto"
+              "title": "Enlaces salientes de Solicitud de Formación UGD"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Guias de uso/Obsidian - Plugins del proyecto.md",
+                "file": "03-Modulos/SID - SolicitudCapacitaciónUGD/Solicitud de Formación UGD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Obsidian - Plugins del proyecto"
+              "title": "Esquema de Solicitud de Formación UGD"
             }
           },
           {
@@ -213,16 +213,19 @@
   },
   "active": "cd53104e2280f1c5",
   "lastOpenFiles": [
+    "03-Modulos/SGH - InventarioEPP/Modulo inventario EPP.md",
+    "00-Guias de uso/Obsidian - Plugins del proyecto.md",
+    "03-Modulos/SID - SolicitudCapacitaciónUGD/Solicitud de Formación UGD.md",
+    "Templates/TemplateGuia.md",
+    "Templates/TemplateModulo.md",
+    "Templates/TemplateComponentes.md",
     "00-Guias de uso/Obsidian - Plantillas.md",
     "00-Guias de uso/Obsidian - Introducción.md",
-    "Templates/TemplateGuia.md",
     "02-Guias para desarrolladores/LDAP - Guia ApacheDirectoryStudio.md",
     "03-Modulos/Visor360 - Autenticación/Autenticación por LDAP 1.0.md",
-    "03-Modulos/SID - SolicitudCapacitaciónUGD/Solicitud de Formación UGD.md",
     "00-Guias de uso/Visor360 - LeftMenu.md",
     "00-Guias de uso/Visor360 - Estandares.md",
     "00-Guias de uso/Setup.md",
-    "00-Guias de uso/Obsidian - Plugins del proyecto.md",
     "Excalidraw/Drawing 2025-07-09 13.29.29.excalidraw.md",
     "Excalidraw",
     "Guia Apache directory studio.md",
@@ -230,10 +233,8 @@
     "03-Modulos/SID - SolicitudCapacitaciónUGD/Solicitud de formación UGD.md",
     "03-Modulos/SID - SolicitudCapacitaciónUGD",
     "05-Componentes/Generación reportes.md",
-    "Templates/TemplateModulo.md",
     "02-Guias para desarrolladores/Guia Apache directory studio.md",
     "images/Pasted image 20250707143317.png",
-    "Templates/TemplateComponentes.md",
     "04-APIs y Servicios",
     "02-Guias para desarrolladores",
     "01-Visión general del sistema",
@@ -248,7 +249,6 @@
     "03-Modulos/Visor360 - Autenticación",
     "Database/Modelos.md",
     "Módulo de Pedidos.md",
-    "Modulos/Checkout.md",
     "PasswordReset",
     "images/Pasted image 20250527160647.png",
     "images/Pasted image 20250527160634.png",
