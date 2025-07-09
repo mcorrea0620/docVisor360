@@ -1,29 +1,29 @@
-# 📘 Guía: [Título descriptivo aquí]
+# Guía: [Título descriptivo aquí]
 > _Breve descripción del objetivo de la guía. ¿Para qué sirve?_
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 - Qué se va a lograr con esta guía
 - Resultado esperado al final
 
 ---
 
-## ✅ Prerrequisitos
+## Prerrequisitos
 - Sistema operativo compatible
 - Software requerido previamente
 - Permisos necesarios (admin, root, etc.)
 
 ---
 
-## 🗂️ Índice (opcional)
-- [[#🎯 Objetivo]]
-- [[#✅ Prerrequisitos]]
-- [[#⚙️ Instalación]]
-- [[#🛠️ Configuración inicial]]
-- [[#✅ Pruebas / Verificación]]
-- [[#⚠️ Notas y advertencias]]
-- [[#🔗 Referencias]]
+## Índice (opcional)
+- [[# Objetivo]]
+- [[#Prerrequisitos]]
+- [[#Instalación]]
+- [[#Configuración inicial]]
+- [[#Pruebas / Verificación]]
+- [[#Notas y advertencias]]
+- [[#Referencias]]
 
 ---
 
@@ -60,7 +60,7 @@
 # Ejemplo de configuración
 ```
 
-## ✅ Pruebas / Verificación
+## Pruebas / Verificación
 - Cómo comprobar que está bien instalado
 - Comando o pantalla de éxito esperada 
 - Logs relevantes

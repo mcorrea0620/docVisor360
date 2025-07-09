@@ -9,7 +9,6 @@ Los plugins son extensiones que agregan funcionalidades extra a Obsidian. Permit
 5. Haz clic en **Install** para descargar, luego **Enable** para activar.
 6. Ajusta la configuración de cada plugin en **Options** o **Settings** si aplica.
 
-> ⚠️ Recomendación: instala solo los plugins que tú o tu equipo necesiten para evitar conflictos y mantener la instalación limpia.
 
 ## Plugins 
 ### Git

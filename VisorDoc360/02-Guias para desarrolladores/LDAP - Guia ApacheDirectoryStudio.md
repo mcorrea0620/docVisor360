@@ -1,21 +1,25 @@
-# 📘 Guía: [Título descriptivo aquí]
+
+> [!fail] INCOMPLETO
+> Por favor hacer caso omiso a este documento mientras se hace el complemento
+
+# Guía: [Título descriptivo aquí]
 > _Breve descripción del objetivo de la guía. ¿Para qué sirve?_
 
 ---
 
-## 🎯 Objetivo
+## Objetivo
 - Instalar y configurar apache directory studio con el fin de simular un directorio activo en la maquina local para hacer simulaciones correctas de ingreso funcionario.
 
 ---
 
-## ✅ Pre requisitos
+## Pre requisitos
 - Java 11.0.x -> Específicamente la 11
 - Apache Directory Studio
 - Runtime Enviroment
 
 ---
 
-## 🗂️ Índice (opcional)
+## Índice
 - [[#🎯 Objetivo]]
 - [[#✅ Prerrequisitos]]
 - [[#⚙️ Instalación]]
@@ -76,7 +80,7 @@ Esta sera la estructura del administrador y le definiremos la contraseña en **B
 # Ejemplo de configuración
 ```
 
-## ✅ Pruebas / Verificación
+## Pruebas / Verificación
 - Cómo comprobar que está bien instalado
 - Comando o pantalla de éxito esperada 
 - Logs relevantes
