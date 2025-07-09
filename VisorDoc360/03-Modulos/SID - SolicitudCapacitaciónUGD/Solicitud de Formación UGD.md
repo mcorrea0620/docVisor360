@@ -32,7 +32,6 @@ php artisan db:seed --class="Database\\Seeders\\SecretariaDeInnovacionDigital\\S
 php artisan db:seed --class="Database\\Seeders\\SecretariaDeInnovacionDigital\\SolicitudFormacionUGD\\StatusUGDSeeder"
 php artisan db:seed --class="Database\\Seeders\\SecretariaDeInnovacionDigital\\SolicitudFormacionUGD\\SubjectsUGDSeeder"
 php artisan db:seed --class="Database\\Seeders\\SecretariaDeInnovacionDigital\\SolicitudFormacionUGD\\ModalitiesUGDSeeder"
-
 ```
 
 ### Librerias
@@ -114,7 +113,7 @@ npm import xlsx
 ---
 
 ## Dependencias o módulos relacionados
-- Se usa LdapService para la pre-carga de datos del usuario
+- Se usa **LdapService** para la pre-carga de datos del usuario
 ```php
       public function getFormData(){
         $dataArea = $this->LdapService->getAreaByDocument(auth()->user()->identification_nit);

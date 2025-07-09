@@ -8,8 +8,8 @@
 
 ---
 
-## ✅ Prerrequisitos
-- Java 11.0.x -> Especificamente la 11
+## ✅ Pre requisitos
+- Java 11.0.x -> Específicamente la 11
 - Apache Directory Studio
 - Runtime Enviroment
 
@@ -28,7 +28,7 @@
 
 ## ⬇️ Descarga
 - [URL oficial ](https://directory.apache.org/studio/download/download-windows.html)
-- Ultima version
+- Ultima versión
 - Si usas linux puedes usar SLAPD
 
 ```bash
